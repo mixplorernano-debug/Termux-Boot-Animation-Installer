@@ -1,4 +1,5 @@
-# Termux-Boot-Animation
+# Any📱Android📱
+# Termux-Boot-Animation installer
 
 # 📋 Key Improvements:
 # Root check - Ensures script runs with proper permissions
